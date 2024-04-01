@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "id": "2",
+        "title": "TS",
+        "info": "test",
+        "city": "Brest"
+    },
+    {
+        "id": "3",
+        "title": "С+",
+        "info": "test",
+        "city": "Gomel"
+    },
+    {
+        "id": "4",
+        "title": "JS",
+        "info": "test",
+        "city": "minsk"
+    },
+    {
+        "id": "5",
+        "title": "TS",
+        "info": "test",
+        "city": "Brest"
+    },
+    {
+        "id": "6",
+        "title": "С+",
+        "info": "test",
+        "city": "Gomel"
+    },
+    {
+        "id": "091cbd80-f05c-11ee-b01f-b9d890ba1ec3",
+        "title": "adasdasd",
+        "info": "asdasdasdasd",
+        "city": "asdasdasds"
+    }
+]
